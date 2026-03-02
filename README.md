@@ -5,6 +5,7 @@
 - [tech_talker](https://github.com/nickagliano/tech_talker) - local wispr model for dictation
 - [extremely_personal_marketplace](https://github.com/nickagliano/extremely_personal_marketplace) - private for now
 - [epc](https://github.com/nickagliano/epc) - private for now
+- [epc-dashboard](https://github.com/nickagliano/eps-dashboard) - private for now
 - [simple_todo](https://github.com/nickagliano/simple_todo) - private for now
 - [chat](https://github.com/nickagliano/chat) - private for now
 - [readings](https://github.com/nickagliano/readings) - private for now

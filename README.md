@@ -12,3 +12,4 @@
 - [morning_brief](https://github.com/nickagliano/morning_brief) - private for now
 - [txtme](https://github.com/nickagliano/txtme) - private for now
 - [shopping](https://github.com/nickagliano/shopping) - private for now
+- [observatory](https://github.com/nickagliano/observatory) - private for now

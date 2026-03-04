@@ -7,6 +7,7 @@
 - [epc](https://github.com/nickagliano/epc) - private for now
 - [epc-dashboard](https://github.com/nickagliano/eps-dashboard) - private for now
 - [simple_todo](https://github.com/nickagliano/simple_todo) - private for now
+- [notes](https://github.com/nickagliano/notes) - private for now
 - [chat](https://github.com/nickagliano/chat) - private for now
 - [readings](https://github.com/nickagliano/readings) - private for now
 - [morning_brief](https://github.com/nickagliano/morning_brief) - private for now
